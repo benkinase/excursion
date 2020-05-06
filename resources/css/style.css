@@ -5,26 +5,38 @@
 }
 
 body {
-  background-color: black;
+  background-color: rgb(22, 11, 11);
 }
 
 .container {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
 }
 
-h1,
 h2,
 h3 {
   color: white;
 }
 
-a {
+span a {
   display: block;
+  color: rgba(182, 241, 20, 0.904);
+  text-decoration: underline;
+  margin-bottom: 30px;
 }
 
 .mp4,
 .landscape,
 .icon {
   text-align: center;
+}
+
+p {
+  margin-bottom: 25px;
+  margin-top: 25px;
+  font-size: 1.6rem;
+}
+
+.travel {
+  margin: 2px 0px 10px 0px;
 }
