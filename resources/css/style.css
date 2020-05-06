@@ -40,3 +40,8 @@ p {
 .travel {
   margin: 2px 0px 10px 0px;
 }
+
+footer p {
+  margin-right: 270px;
+  margin-top: -10px;
+}
